@@ -1,5 +1,6 @@
-# scratchcode-io-2
-Useful programming resource part - 2
+Part-2 Useful Programming Resource
+
+------------------------------------
 
 <a href="https://scratchcode651727649.wordpress.com/2021/01/02/useful-programming-resource/">Part 1 - Scratchcode | WordPress Useful Resource</a>
 
@@ -27,7 +28,7 @@ Useful programming resource part - 2
 
 <a href="https://github.com/mayanksdudakiya/scratchcode.io">Part 1 - Github | Useful Resource</a>
 
-----------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 101) <a href="https://www.scratchcode.io/laravel-remove-column-from-table-in-migration/">Laravel Remove Column From Table In Migration</a>
 
@@ -38,3 +39,7 @@ Useful programming resource part - 2
 104) <a href="https://www.scratchcode.io/add-column-after-a-column-in-laravel-migration/">Add Column After A Column In Laravel Migration</a>
 
 105) <a href="https://www.scratchcode.io/laravel-change-column-name-in-migration/">Laravel: Change Column Name In Migration</a>
+
+106) <a href="https://www.scratchcode.io/laravel-change-column-type-in-migration/">Laravel: Change Column Type In Migration</a>
+
+107) <a href="https://www.scratchcode.io/how-to-use-where-date-between-in-laravel/">How To Use Where Date Between In Laravel</a>

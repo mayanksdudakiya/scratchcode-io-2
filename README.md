@@ -28,6 +28,26 @@ Part-2 Useful Programming Resource
 
 <a href="https://github.com/mayanksdudakiya/scratchcode.io">Part 1 - Github | Useful Resource</a>
 
+<a href="https://github.com/mayanksdudakiya/scratchcode-io-2">Part 2 - Github | Useful Resource</a>
+
+<a href="https://scratchcode.postach.io/post/useful-scrachcode-resources">Part 1 - Postach | Useful Resource</a>
+
+<a href="https://scratchcode.postach.io/post/part-2-useful-scratchcode-resource">Part 2 - Postach | Useful Resource</a>
+
+<a href="https://vk.com/@scratchcode-useful-scratchcode-resource">Part 1 - VK | Useful Resource</a>
+
+<a href="https://vk.com/@scratchcode-part-2-useful-programming-resource">Part 2 - VK | Useful Resource</a>
+
+<a href="https://gitlab.com/mayanksdudakiya/scratchcode/">Part - 1 | GitLab - Useful scratchcode resource</a>
+
+<a href="https://devdojo.com/msdnsditlabs/part-1-useful-programming-resource">Part - 1 | DevDojo - Useful scratchcode resource</a>
+
+<a href="https://devdojo.com/msdnsditlabs/part-2-useful-programming-resource-scratchcodeio">Part - 2 | DevDojo - Useful scratchcode resource</a>
+
+<a href="https://scratchcode.hashnode.dev/part-1-useful-links-of-scratchcodeio-blog">Part - 1 | Hashnode - Useful scratchcode resource</a>
+
+<a href="https://scratchcode.hashnode.dev/part-2-useful-scratchcodeio-resources">Part - 2 | Hashnode - Useful scratchcode resource</a>
+
 ---------------------------------------------------------------------------------------------------
 
 101) <a href="https://www.scratchcode.io/laravel-remove-column-from-table-in-migration/">Laravel Remove Column From Table In Migration</a>

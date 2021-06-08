@@ -48,6 +48,10 @@ Part-2 Useful Programming Resource
 
 <a href="https://scratchcode.hashnode.dev/part-2-useful-scratchcodeio-resources">Part - 2 | Hashnode - Useful scratchcode resource</a>
 
+<a href="https://msdnsditlabs.wixsite.com/scratchcodeio/post/part-1-useful-resources">Part - 1 | Wix - Useful scratchcode resource</a>
+
+<a href="https://msdnsditlabs.wixsite.com/scratchcodeio/post/part-2-useful-resources">Part - 2 | Wix - Useful scratchcode resource</a>
+
 ---------------------------------------------------------------------------------------------------
 
 101) <a href="https://www.scratchcode.io/laravel-remove-column-from-table-in-migration/">Laravel Remove Column From Table In Migration</a>
@@ -63,3 +67,21 @@ Part-2 Useful Programming Resource
 106) <a href="https://www.scratchcode.io/laravel-change-column-type-in-migration/">Laravel: Change Column Type In Migration</a>
 
 107) <a href="https://www.scratchcode.io/how-to-use-where-date-between-in-laravel/">How To Use Where Date Between In Laravel</a>
+
+108) <a href="https://www.scratchcode.io/laravel-get-day-from-date/">Laravel: Get Day From Date</a>
+
+109) <a href="https://www.scratchcode.io/laravel-get-month-name-from-date/">Laravel: Get Month Name From Date</a>
+
+110) <a href="https://www.scratchcode.io/laravel-get-year-from-date/">Laravel: Get Year From Date</a>
+
+111) <a href="https://www.scratchcode.io/php-get-day-name-from-date/">PHP: Get Day Name From Date</a>
+
+112) <a href="https://www.scratchcode.io/php-get-month-name-from-date/">PHP: Get Month Name From Date</a>
+
+113) <a href="https://www.scratchcode.io/php-get-year-from-date/">PHP: Get Year From Date</a>
+
+114) <a href="https://www.scratchcode.io/how-to-dynamic-iframe-url-in-elementor/">How To Dynamic iFrame URL In Elementor</a>
+
+115) <a href="https://www.scratchcode.io/how-to-fix-elementor-icons-not-showing/">How To Fix Elementor Icons Not Showing</a>
+
+116) <a href="https://www.scratchcode.io/how-to-update-pivot-table-in-laravel/">How To Update Pivot Table In Laravel</a>

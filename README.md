@@ -85,3 +85,17 @@ Part-2 Useful Programming Resource
 115) <a href="https://www.scratchcode.io/how-to-fix-elementor-icons-not-showing/">How To Fix Elementor Icons Not Showing</a>
 
 116) <a href="https://www.scratchcode.io/how-to-update-pivot-table-in-laravel/">How To Update Pivot Table In Laravel</a>
+
+117) <a href="https://www.scratchcode.io/laravel-add-new-column-with-a-value-in-select-query/">Laravel: Add New Column With A Value In Select Query</a>
+
+118) <a href="https://www.scratchcode.io/laravel-blade-switch-case-statement-example/">Laravel: Blade Switch Case Statement Example</a>
+
+119) <a href="https://www.scratchcode.io/laravel-switch-case-statement-example/">Laravel: Switch Case Statement In Controller Example</a>
+
+120) <a href="https://www.scratchcode.io/how-to-use-case-statement-in-laravel/">How To Use CASE Statement In Laravel</a>
+
+121) <a href="https://www.scratchcode.io/set-default-value-of-timestamp-in-laravel-migration/">Set Default Value Of Timestamp In Laravel Migration</a>
+
+122) <a href="https://www.scratchcode.io/source-books/laravel-pivot-table-with-an-example/">Laravel: Pivot Table With An Example</a>
+
+123) <a href="https://www.scratchcode.io/source-books/laravel-accessor-with-an-example/">Laravel: Accessor With An Example</a>
